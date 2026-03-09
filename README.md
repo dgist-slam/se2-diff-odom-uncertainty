@@ -2,7 +2,7 @@
 
 Interactive visualization of covariance propagation for differential-drive odometry, based on Siegwart & Nourbakhsh (2011), §5.2.4.
 
-**Live Demo:** https://dgist-slam.github.io/se2-odom-uncertainty/
+**Live Demo:** [https://dgist-slam.github.io/se2-odom-uncertainty](https://dgist-slam.github.io/se2-diff-odom-uncertainty/)
 
 ## Features
 
